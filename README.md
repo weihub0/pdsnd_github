@@ -10,7 +10,7 @@ Use Python to explore data related to bike share systems for three major cities 
 
 ### Files used
 
-Data file from Motivate, Udacity course material
+Data file from Motivate: chicago.csv, new_york_city.csv, washington.csv. Udacity course material
 
 ### Credits
 Udacity course material 
