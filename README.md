@@ -5,10 +5,12 @@
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+The project is part of Udacity Programming for Data Science Nanodegree Program. 
+Use Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington
 
 ### Files used
-Include the files used
+
+Data file from Motivate, Udacity course material
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
